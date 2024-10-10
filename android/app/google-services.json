@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1028653292489",
+    "firebase_url": "https://bnmara-68db4.firebaseio.com",
+    "project_id": "bnmara-68db4",
+    "storage_bucket": "bnmara-68db4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028653292489:android:871ac0f4426e9634e0e618",
+        "android_client_info": {
+          "package_name": "com.kindaysoft.taxiapp.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028653292489-apbgdfaqim0tvvq2uro6lfuslqcjtjs1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJal2pZN-Xo3qhTwRVplk7lXF1YLk4qao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028653292489-apbgdfaqim0tvvq2uro6lfuslqcjtjs1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1028653292489-it3bflji2l3anm190gmh1fokg32spmdd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.shortvideos"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
